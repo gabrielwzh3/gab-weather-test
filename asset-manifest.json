@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gab-weather-test/static/css/main.cea283b6.css",
-    "main.js": "/gab-weather-test/static/js/main.00ff3566.js",
+    "main.js": "/gab-weather-test/static/js/main.665cd0ef.js",
     "index.html": "/gab-weather-test/index.html",
     "main.cea283b6.css.map": "/gab-weather-test/static/css/main.cea283b6.css.map",
-    "main.00ff3566.js.map": "/gab-weather-test/static/js/main.00ff3566.js.map"
+    "main.665cd0ef.js.map": "/gab-weather-test/static/js/main.665cd0ef.js.map"
   },
   "entrypoints": [
     "static/css/main.cea283b6.css",
-    "static/js/main.00ff3566.js"
+    "static/js/main.665cd0ef.js"
   ]
 }
